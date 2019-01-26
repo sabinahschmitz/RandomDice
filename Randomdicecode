@@ -1,0 +1,8 @@
+#import random library
+import random 
+
+#set function roll_dice to randint
+roll_dice = random.randint(1, 6)
+
+#print new function
+print(roll_dice)
